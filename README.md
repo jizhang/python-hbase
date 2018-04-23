@@ -10,5 +10,5 @@ venv/bin/pip install -r requirements.txt
 ```
 
 
-[1]: http://shzhangji.com/
-[2]: http://shzhangji.com/cnblogs/
+[1]: http://shzhangji.com/blog/2018/04/22/connect-hbase-with-python-and-thrift/
+[2]: http://shzhangji.com/cnblogs/2018/04/22/connect-hbase-with-python-and-thrift/
